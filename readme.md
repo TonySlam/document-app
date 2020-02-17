@@ -13,7 +13,7 @@ Support App Section 1<br>
 - yajra/laravel-datatables-oracle ~9.0 https://github.com/yajra/laravel-datatables<br>
 
 #  Setup
-- clone repository https://github.com/{YOUR_USERNAME}/support-app.git<br>
+- clone repository https://github.com/{YOUR_USERNAME}/document-app.git<br>
 - composer install<br>
 
 ## ENV File
