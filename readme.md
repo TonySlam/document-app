@@ -1,4 +1,4 @@
-# Support App
+# Document App
 Support App Section 1<br>
 
 
@@ -18,7 +18,7 @@ Support App Section 1<br>
 
 ## ENV File
 - Generate new env<br><br><br>
-APP_NAME=SupportApp<br>
+APP_NAME=DocumentApp<br>
 APP_ENV=local<br>
 APP_KEY=<br>
 APP_DEBUG=true<br>
